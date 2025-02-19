@@ -1,4 +1,4 @@
-# Vidplo Storage - Open Source Video Platform Backend
+# Vidplo Storage - Open Source
 
 This is the Storage service for Vidplo, a video platform. It handles video uploads, encoding, storage, streaming, and management. This code is designed to be open-source, allowing for community contributions and customization.
 
