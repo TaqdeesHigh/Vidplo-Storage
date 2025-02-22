@@ -143,6 +143,10 @@ The server will start at the port specified in your `.env` file or default to 30
 - API endpoints generally return JSON responses with an `error` field for error conditions.
 - HTTP status codes are used to indicate the type of error (e.g., 400 for bad request, 401 for unauthorized, 404 for not found, 500 for internal server error).
 
+## Credits
+
+- Produced by [Taqdees](https://github.com/TaqdeesHigh) Secured by [Zyleree](https://github.com/Zyleree)
+
 ## License
 
 [MIT License](LICENSE)
